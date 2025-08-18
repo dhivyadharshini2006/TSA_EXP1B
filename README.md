@@ -89,16 +89,26 @@ data.plot(kind='line')
 ### OUTPUT:
 
 
-REGULAR DIFFERENCING:
+REGULAR DIFFERENCING:'
+
+
+
+
 <img width="729" height="182" alt="image" src="https://github.com/user-attachments/assets/daa3ac07-2225-4459-9fcb-5dccde1bdc76" />
 
 
 
 SEASONAL ADJUSTMENT:
+
+
+
 <img width="748" height="175" alt="image" src="https://github.com/user-attachments/assets/d4bc117a-7301-4a25-b2a7-805f01d27aa1" />
 
 
 LOG TRANSFORMATION:
+
+
+
 <img width="731" height="186" alt="image" src="https://github.com/user-attachments/assets/3c0c68bc-ad98-423f-b3f6-fb265a4f2c48" />
 
 
