@@ -82,10 +82,7 @@ plt.show()
 
 ```
 ```
-data['Value'].plot(kind='line', title='Gold Price Over Time', figsize=(12,6))
-plt.xlabel('Date')
-plt.ylabel('Value')
-plt.show()
+data.plot(kind='line')
 
 ```
 
