@@ -121,5 +121,5 @@ LOG TRANSFORMATION AND REGULAR AND SESONAL DIFFERENCING:
 <img width="939" height="160" alt="image" src="https://github.com/user-attachments/assets/9db08570-8871-485f-8647-f664f51f4709" />
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
+Thus we have created the python code for the conversion of non stationary to stationary data on Gold Price
 data.
