@@ -112,6 +112,8 @@ LOG TRANSFORMATION AND REGULAR DIFFERENCING:
 
 
 <img width="913" height="149" alt="image" src="https://github.com/user-attachments/assets/62439c85-6340-497a-88fd-cb7c51c02d90" />
+
+
 LOG TRANSFORMATION AND REGULAR AND SESONAL DIFFERENCING:
 
 
